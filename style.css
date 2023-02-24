@@ -21,10 +21,6 @@ img{
   display: table;
   justify-content: center;
 }
-#source{
-  display:table;
-  justify content: center;
-}
 .row {
   display: flex;
   flex: 10%;
