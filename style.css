@@ -10,14 +10,14 @@ img{
   justify-content: center;
 }
 #video{
-  width: 500px;
-  height: 300px;
+  width: 1px;
+  height: 1px;
   display:flex;
   justify-content: center;
 }
 #img{
-  width: 500px;
-  height: 300px;
+  width: 1px;
+  height: 1px;
   display: table;
   justify-content: center;
 }
